@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! eu sou o Santiago Rocha 👋
 
-<!--
-**szer02/szer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santiagors002/)
 
-Here are some ideas to get you started:
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/szeer02)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=szer02&show_icons=true&theme=tokyonight)
+
+## Tecnologias que uso para estudar no meu dia
+
+<div style = "display: inline_block"><br/>
+    <img align = "center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+</div><br/>
+
+Estudante apaixonado por programação, embarcando na jornada de aprendizado. Universitário em busca de conhecimento, equilibrando os estudos com meu trabalho em Suporte.
