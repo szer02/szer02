@@ -12,4 +12,4 @@
     <img align = "center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 </div><br/>
 
-Estudante apaixonado por programação, embarcando na jornada de aprendizado. Universitário em busca de conhecimento, equilibrando os estudos com meu trabalho de Analista de Suporte.
+Universitário em busca de conhecimento, equilibrando os estudos com meu trabalho de support analyst.
