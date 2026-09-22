@@ -14,4 +14,4 @@
     <img align = "center" alt = "" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
 </div>
 
-Universitário em busca de conhecimento, equilibrando os estudos com meu trabalho de support analyst.
+Universitário em busca de conhecimento, equilibrando os estudos com meu trabalho de suporte.
