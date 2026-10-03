@@ -1,19 +1,16 @@
-## Olá! eu sou o Santiago 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-da-rocha-souza-889b86246/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.shego@gmail.com)
 
-[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santiagors002/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/szeer02)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-da-rocha-souza-889b86246/)
+### 🎓 Formação
+- Graduado em Sistemas de Informação (UEG)
+- Mestrando Ciência da Computação (UFJ)
+- Pós Graduando em Engenharia de Dados e IA
+- Especialista em Segurança da Informação
+- Especialista em Inteligência Artificial
 
-![Santiago GitHub stats](https://github-readme-stats.vercel.app/api?username=szer02&show_icons=true&theme=tokyonight)
+<br/>
 
-
-
-## Tecnologias que uso para estudar no meu dia
-
-<div style = "display: inline_block"><br/>
-    <img align = "center" alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-    <img align = "center" alt = "C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
-    <img align = "center" alt = "" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
+### 📊 Estatísticas
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=szer02&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
-
-Universitário em busca de conhecimento, equilibrando os estudos com meu trabalho de suporte.
