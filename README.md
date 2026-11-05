@@ -10,7 +10,3 @@
 
 <br/>
 
-### 📊 Estatísticas
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=szer02&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-</div>
